@@ -11,6 +11,15 @@ Hosting some useful CIFFs
 |:-----------|:--------------|-----|:---------|
 | ESPLADE   | `efficient-splade-V-large-doc` reordered w/ BP  | `a6ecd8412e85b3e168dce983cede9ec5` | [https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff](https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff)|
 
+
+### uniCOIL
+
+> Jimmy Lin and Xueguang Ma. A Few Brief Notes on DeepImpact, COIL, and a Conceptual Framework for Information Retrieval Techniques. arXiv:2106.14807.
+
+| Name | Description |  CIFF | Dev | DL 2019 | DL 2020 |
+|:-----------|:--------------|:---------|:---------|:---------|:---------|
+| uniCOIL-TILDE   | uniCOIL w/ TILDE expansion reordered w/ BP  | [Download]()| [Download]()| [Download]()| [Download]()|
+
 ### CSV
 
 > Yu, Puxuan, Antonio Mallia, and Matthias Petri. "Improved Learned Sparse Retrieval with Corpus-Specific Vocabularies." arXiv preprint arXiv:2401.06703 (2024).
