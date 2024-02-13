@@ -17,4 +17,4 @@ Hosting some useful CIFFs
 
 | Name | Description | MD5 | Download |
 |:-----------|:--------------|-----|:---------|
-| CSV-30k   | `csv-30k` reordered w/ BP  | `bb85828a603efccfabd0ae98c1556cee` | [https://storage.googleapis.com/ciff-hub/csv-30k/ciff/bp-csv-30k.ciff](https://storage.googleapis.com/ciff-hub/csv-30k/ciff/bp-csv-30k.ciff)|
+| CSV-30k   | `csv-30k` reordered w/ BP  | `8575bda881a16faffe8b12915b75aa42` | [https://storage.googleapis.com/ciff-hub/csv-30k/ciff/bp-csv-30k.ciff](https://storage.googleapis.com/ciff-hub/csv-30k/ciff/bp-csv-30k.ciff)|
