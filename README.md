@@ -7,7 +7,7 @@ Hosting some useful CIFFs
 
 > Lassance, Carlos, and Stéphane Clinchant. "An efficiency study for splade models." Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022.
 
-| Name | Description | MD5 | Download |
+| Name | Description | MD5 | CIFF |
 |:-----------|:--------------|-----|:---------|
 | ESPLADE   | `efficient-splade-V-large-doc` reordered w/ BP  | `a6ecd8412e85b3e168dce983cede9ec5` | [https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff](https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff)|
 
@@ -15,8 +15,8 @@ Hosting some useful CIFFs
 
 > Yu, Puxuan, Antonio Mallia, and Matthias Petri. "Improved Learned Sparse Retrieval with Corpus-Specific Vocabularies." arXiv preprint arXiv:2401.06703 (2024).
 
-| Name | Description | MD5 | Download |
-|:-----------|:--------------|-----|:---------|
-| CSV-30k   | `csv-30k` reordered w/ BP  | `8575bda881a16faffe8b12915b75aa42` | [https://storage.googleapis.com/ciff-hub/csv-30k/ciff/bp-csv-30k.ciff](https://storage.googleapis.com/ciff-hub/csv-30k/ciff/bp-csv-30k.ciff)|
-| CSV-100k   | `csv-100k` reordered w/ BP  | `7694b4f7c4196fbb1e59d83b77b5a0c9` | [https://storage.googleapis.com/ciff-hub/csv-100k/ciff/bp-csv-100k-quantized.ciff](https://storage.googleapis.com/ciff-hub/csv-100k/ciff/bp-csv-100k-quantized.ciff)|
-| CSV-300k   | `csv-300k` reordered w/ BP  | `53de3040bb9ab5f4b68d85c5f7328bde` | [https://storage.googleapis.com/ciff-hub/csv-300k/ciff/bp-csv-300k-quantized.ciff](https://storage.googleapis.com/ciff-hub/csv-300k/ciff/bp-csv-300k-quantized.ciff)|
+| Name | Description |  CIFF | Dev | DL 2019 | DL 2020 |
+|:-----------|:--------------|:---------|:---------|:---------|:---------|
+| CSV-30k   | `csv-30k` reordered w/ BP   | [Download](https://storage.googleapis.com/ciff-hub/csv-30k/ciff/bp-csv-30k.ciff)| [Download](https://storage.googleapis.com/ciff-hub/csv-30k/queries/dev.pisa) | [Download](https://storage.googleapis.com/ciff-hub/csv-30k/queries/dl19.pisa) | [Download](https://storage.googleapis.com/ciff-hub/csv-30k/queries/dl20.pisa )|
+| CSV-100k   | `csv-100k` reordered w/ BP  | [Download](https://storage.googleapis.com/ciff-hub/csv-100k/ciff/bp-csv-100k-quantized.ciff)| [Download](https://storage.googleapis.com/ciff-hub/csv-100k/queries/dev.pisa) | [Download](https://storage.googleapis.com/ciff-hub/csv-100k/queries/dl19.pisa) | [Download](https://storage.googleapis.com/ciff-hub/csv-100k/queries/dl20.pisa )|
+| CSV-300k   | `csv-300k` reordered w/ BP  | [Download](https://storage.googleapis.com/ciff-hub/csv-300k/ciff/bp-csv-300k-quantized.ciff)| [Download](https://storage.googleapis.com/ciff-hub/csv-300k/queries/dev.pisa) | [Download](https://storage.googleapis.com/ciff-hub/csv-300k/queries/dl19.pisa) | [Download](https://storage.googleapis.com/ciff-hub/csv-300k/queries/dl20.pisa )|
