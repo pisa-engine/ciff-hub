@@ -18,4 +18,5 @@ Hosting some useful CIFFs
 | Name | Description | MD5 | Download |
 |:-----------|:--------------|-----|:---------|
 | CSV-30k   | `csv-30k` reordered w/ BP  | `8575bda881a16faffe8b12915b75aa42` | [https://storage.googleapis.com/ciff-hub/csv-30k/ciff/bp-csv-30k.ciff](https://storage.googleapis.com/ciff-hub/csv-30k/ciff/bp-csv-30k.ciff)|
-| CSV-300k   | `csv-30k` reordered w/ BP  | `53de3040bb9ab5f4b68d85c5f7328bde` | [https://storage.googleapis.com/ciff-hub/csv-300k/ciff/bp-csv-300k-quantized.ciff](https://storage.googleapis.com/ciff-hub/csv-300k/ciff/bp-csv-300k-quantized.ciff)|
+| CSV-100k   | `csv-100k` reordered w/ BP  | `7694b4f7c4196fbb1e59d83b77b5a0c9` | [https://storage.googleapis.com/ciff-hub/csv-100k/ciff/bp-csv-100k-quantized.ciff](https://storage.googleapis.com/ciff-hub/csv-100k/ciff/bp-csv-100k-quantized.ciff)|
+| CSV-300k   | `csv-300k` reordered w/ BP  | `53de3040bb9ab5f4b68d85c5f7328bde` | [https://storage.googleapis.com/ciff-hub/csv-300k/ciff/bp-csv-300k-quantized.ciff](https://storage.googleapis.com/ciff-hub/csv-300k/ciff/bp-csv-300k-quantized.ciff)|
