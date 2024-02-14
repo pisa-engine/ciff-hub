@@ -1,7 +1,13 @@
 <p align="center"><img src="logo.webp" width="400px"></p>
 
 # CIFF Hub
-Hosting some useful CIFFs 
+Common Index File Format CIFF is an inverted index exchange format as defined as part of the Open-Source IR Replicability Challenge (OSIRRC) initiative.
+
+The Ciff Hub hosts many indexes and queries for a variety of collections and models.
+
+
+## MS Marco 
+The MS Marco passage ranking dataset consists of 8.8M passages.
 
 ### ESPLADE
 
