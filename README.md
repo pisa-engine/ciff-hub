@@ -7,9 +7,10 @@ Hosting some useful CIFFs
 
 > Lassance, Carlos, and Stéphane Clinchant. "An efficiency study for splade models." Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022.
 
-| Name | Description | MD5 | CIFF |
-|:-----------|:--------------|-----|:---------|
-| ESPLADE   | `efficient-splade-V-large-doc` reordered w/ BP  | `a6ecd8412e85b3e168dce983cede9ec5` | [https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff](https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff)|
+| Name | Description |  CIFF | Dev | DL 2019 | DL 2020 |
+|:-----------|:--------------|:---------|:---------|:---------|:---------|
+| ESPLADE   | `efficient-splade-V-large-doc` reordered w/ BP   | [https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff](https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff)| ||||
+| SPLADE   | `splade-cocondenser-ensemble distil` reordered w/ BP   | | ||||
 
 
 ### uniCOIL
