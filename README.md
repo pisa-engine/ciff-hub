@@ -9,8 +9,8 @@ Hosting some useful CIFFs
 
 | Name | Description |  CIFF | Dev | DL 2019 | DL 2020 |
 |:-----------|:--------------|:---------|:---------|:---------|:---------|
-| ESPLADE   | `efficient-splade-V-large-doc` reordered w/ BP   | [https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff](https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff)| ||||
-| SPLADE   | `splade-cocondenser-ensemble distil` reordered w/ BP   | | ||||
+| ESPLADE   | `efficient-splade-V-large-doc` reordered w/ BP   | [Download](https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff)| [Download]()| [Download]() | [Download]() | [Download]()|
+| SPLADE   | `splade-cocondenser-ensemble distil` reordered w/ BP   | [Download]()| [Download]() | [Download]() | [Download]()|  [Download]()| 
 
 
 ### uniCOIL
