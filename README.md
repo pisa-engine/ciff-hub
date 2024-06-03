@@ -16,7 +16,7 @@ The MS Marco passage ranking dataset consists of 8.8M passages.
 | Name | Description |  CIFF | Dev | DL 2019 | DL 2020 |
 |:-----------|:--------------|:---------|:---------|:---------|:---------|
 | ESPLADE   | `efficient-splade-V-large-doc` reordered w/ BP   | [Download](https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-esplade-quantized.ciff)| [Download]()| [Download]() | [Download]() | [Download]()|
-| SPLADE   | `splade-cocondenser-ensemble distil` reordered w/ BP   | [Download]()| [Download]() | [Download]() | [Download]()|  [Download]()| 
+| SPLADE   | `splade-cocondenser-ensemble distil` reordered w/ BP   | [Download](https://storage.googleapis.com/ciff-hub/esplade/ciff/bp-msmarco-passage-splade-quantized.ciff)| [Download](https://storage.googleapis.com/ciff-hub/esplade/queries/dev.pisa) | [Download]() | [Download]()|  [Download]()| 
 
 
 ### uniCOIL
